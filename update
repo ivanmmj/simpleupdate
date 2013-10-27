@@ -1,0 +1,47 @@
+#!/bin/bash
+# This file will detect what distro you run and run some house cleaning commands
+
+distro=unknown
+
+checkDistro(){
+
+
+
+
+}
+
+checkReq(){
+# Check for apps like the mirror updating file. If the files aren't found, install them.
+# Use checkSSD to see if fstrim should be installed.
+
+
+}
+
+
+updateMirrors(){
+
+
+}
+
+
+updateRepos(){
+
+
+}
+
+updateDistro(){
+
+}
+
+
+checkSSD(){
+
+}
+
+fstrimSSD(){
+#Should this even be a function?
+}
+
+
+
+# "Main"
