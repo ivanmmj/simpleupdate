@@ -1,8 +1,9 @@
 simpleupdate
 ============
 
-* A simple house keeping script.
-* Planned features:
+A simple house keeping script.
+
+Planned features:
 * Support for Arch, Ubuntu, Debian, and possibly others
 * (Arch Only) Automatically switch to best mirrors
 * Update repositories
